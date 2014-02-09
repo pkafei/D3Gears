@@ -1,0 +1,5 @@
+GearViz/settings/base.py
+*.pyc
+.*swp
+*.zip
+*.tgz
